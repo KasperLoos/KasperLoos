@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KasperLoos
+- 👀 I’m interested in Statistics, Data Science, Machine Learning and Social Science.
